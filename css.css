@@ -1,0 +1,41 @@
+.H1{
+    text-align: center  ;
+}
+.layered-table {
+    width: 60%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+
+.layered-table td {
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+.layer1 {
+    border: 2px solid #FF5733;
+}
+
+.layer2 {
+    border: 2px solid #33FF57;
+}
+
+.layer3 {
+    border: 2px solid #5733FF;
+}
+
+.layer4 {
+    border: 2px solid #FFFF33;
+}
+
+.layer5 {
+    border: 2px solid #33FFFF;
+}
+
+
+
+
